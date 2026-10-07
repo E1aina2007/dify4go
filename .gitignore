@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+configs/*.json
+!configs/config.example.json
+node_modules/
+dist/
+.tmp/
+bin/
+*.exe
+*.test
+*.tsbuildinfo
+.DS_Store
+
+docs/
